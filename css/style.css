@@ -1,0 +1,23 @@
+#brand-name {
+  color: rgb(0, 15, 133);
+  font-size: 30px;
+  padding: 0px;
+  font-weight: bold;
+}
+#brand-img {
+  margin-top: -9px;
+  margin-bottom: 3px;
+  margin-right: 10px;
+}
+
+.bg-color {
+  background-color: #151012;
+}
+.bg-su-color {
+  background-color: #55f;
+}
+@media (min-width: 768px) {
+  .sub-input {
+    width: 30%;
+  }
+}
