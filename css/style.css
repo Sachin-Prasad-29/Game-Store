@@ -14,10 +14,22 @@
   background-color: #151012;
 }
 .bg-su-color {
-  background-color: #55f;
+  background-color: #22f;
 }
 @media (min-width: 768px) {
   .sub-input {
     width: 30%;
   }
+}
+.fs-7 {
+  font-size: 13px;
+}
+.border-ra {
+  border-radius: 5px;
+}
+.btn-red {
+  background-color: rgb(255, 0, 0);
+}
+.text-red {
+  color: rgb(255, 0, 0);
 }
