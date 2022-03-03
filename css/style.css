@@ -14,7 +14,7 @@
   background-color: #151012;
 }
 .bg-su-color {
-  background-color: #22f;
+  background-color: rgb(64, 64, 73);
 }
 @media (min-width: 768px) {
   .sub-input {
@@ -32,4 +32,7 @@
 }
 .text-red {
   color: rgb(255, 0, 0);
+}
+.border-width {
+  border: 3px solid yellowgreen;
 }
